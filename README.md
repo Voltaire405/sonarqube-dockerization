@@ -2,7 +2,8 @@
 
 - Stand up Postgresql on port 5432 as database.
 - Up sonarqube server on 9000 port
-**note** you can replace ports and versions into yml file. For example, with a .env file and using patterns. Read more about docker-compose files.
+
+**note:** Replace ports and versions into yml file. For example, with a .env file and using patterns. Read more about docker-compose files.
 
 To stand up container, execute following on terminal:
 ```bash
